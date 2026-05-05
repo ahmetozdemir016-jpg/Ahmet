@@ -1,7 +1,1 @@
-Dairemiz 0340022922 vergi kimlik numaralı mükellefi SEMİH EVREN AKSAKOĞLU, 09/03/2026 tarihli ve 223956 sayılı dilekçesi ile; yalnızca arabuluculuk faaliyeti nedeniyle serbest meslek erbabı olarak mükellefiyet tesis ettirdiğini, herhangi bir baroya veya meslek odasına kayıtlı olmadığını, arabulucuların Adalet Bakanlığı nezdinde tutulan Arabuluculuk Siciline kayıtlı olduğunu, bu nedenle Defter-Beyan Sistemine meslek mensubu veya oda aracılığı olmaksızın giriş yapabilmesi ve e-Serbest Meslek Gelir Defterini tutabilmesi hususunda talepte bulunmuştur.
 
-Mükellefin talebi üzerine EVDB ekranlarında yer alan “Dış Kullanıcı Ekle” sekmesinden elektronik beyanname gönderme yetkisi tanımlanmak istenilmiş; ancak arabuluculuk faaliyeti kapsamında meslek bilgisi olarak “Avukat” seçildiğinde ruhsat numarası girilmesi gerektiğinden işlem tamamlanamamış ve mükellefe elektronik beyanname gönderme yetkisi tanımlanamamıştır.
-
-Bu kapsamda; herhangi bir baro veya meslek odasına kayıtlı olmayan, yalnızca arabuluculuk faaliyeti nedeniyle serbest meslek kazancı yönünden mükellefiyet tesis ettiren söz konusu mükellefin Defter-Beyan Sistemine meslek mensubu/oda aracılığı olmaksızın giriş yapıp yapamayacağı, e-Serbest Meslek Gelir Defterini kendisinin tutabilmesi için sistem üzerinden hangi kullanıcı türü veya meslek bilgisi ile yetkilendirme yapılacağı hususunda Başkanlığınız görüş ve talimatlarına ihtiyaç duyulmuştur.
-
-Gereğini arz ederim.
