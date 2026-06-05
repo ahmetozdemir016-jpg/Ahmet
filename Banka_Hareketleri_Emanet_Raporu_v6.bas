@@ -1,16 +1,6 @@
 REM  *****  BASIC  *****
 Option Explicit
 
-' BANKA HESAP HAREKETLERİ -> EMANET / MİF ANALİZ RAPORU v6
-' Bu sürümde sadece Emanet_Rapor ve Özet_Rapor oluşturulur; Kimlik No sütunu yoktur, T.C. No ve Vergi No ayrı sütunlara yazılır.
-' Özellikle şu kalıplar ayrı ele alınır:
-' - Gönderen ve borçlu aynı olan FAST/FRW satırları
-' - VKN:... VERGİ BORCU ÖDEMESİ ... Borçlu Müş=... satırları
-' - Talimat No satırları
-' - EDENRED, İş Bankası, Halk/Yapı Kredi Yatırım aracı kurum haciz satırları
-' - Şirket tarafından çalışan/kişi adına maaş haczi ödemesi
-' - PTT TCKN/VKN satırları ve ihale teminat satırları
-
 Sub BankaHareketleriEmanetRaporu()
     Dim oDoc As Object, oSheets As Object, oSrc As Object, oOut As Object, oSum As Object
     Dim headerRow As Long, lastRow As Long, r As Long, outRow As Long
