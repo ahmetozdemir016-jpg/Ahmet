@@ -1,3 +1,5 @@
+kurumlar vergisi kopyalanan metin
+
 KURUMLAR VERGİSİ BEYANNAMESİ 1010
 ÇEKİRGE VD DÖNEM TİPİ
 Yıllık
@@ -277,3 +279,174 @@ Devir Alınan Kişinin/Firmanın TC/Vergi Kimlik numarası
 SINAİ MÜLKİYET HAKLARINDA İSTİSNA
 529 Sıra No.lu VUK Genel Tebliği kapsamında daha önce verdiğim bildirim/beyannamede yer alan bilgiler geçerlidir.
 Gerçek Faydalanıcıya İlişkin Bilgiler
+
+
+
+
+
+burdan sonrası kurum geçici vergi kopyalanan metin
+
+
+GEÇİCİ VERGİ BEYANNAMESİ
+( Kurumlar Vergisi Mükellefleri İçin ) 1032
+ÇEKİRGE VD DÖNEM TİPİ
+Geçici Vergi Dönemi (Normal Dönem)
+Yılı
+Dönem
+2021
+VERGİ DAİRESİ MÜDÜRLÜĞÜ 1. Dönem
+Onay Zamanı : 18.05.2021 - 19:05:02
+ Soyadı (Unvanı)
+ Adı (Unvanın Devamı)
+ Ticaret Sicil No İrtibat Tel No
+ E-Posta Adresi
+3850695562
+FENİX BUKLET TUR.DAN.END.HOTEL
+İTH.İHR.LTD.ŞTİ.
+89446 542 3292100
+muhasebe@niluferdavet.com.tr
+Vergi Kimlik Numarası
+39,13
+Ticari Bilanço Karı 155.140,55
+0,00
+Kanunen Kabul Edilmeyen Gider
+Ticari Bilanço Zararı
+6491 sayılı Türk Petrol Kanununun Mad. 12/5 kapsamında itfa payı olarak addolunan gelirler 0,00
+ZARAR KAR
+Zarar ve İndirimler Toplamı 0,00
+Kar 155.179,68
+Mahsup Edilecek Geçmiş Yıl Zararları 190.024,44
+İndirime Esas Tutar 0,00
+Kar ve İlaveler Toplamı 155.179,68
+Zarar 0,00
+Zarar Olsa Dahi İndirilecek İstisna ve İndirimler 0,00
+Toplam 0,00
+Dönem Zararı 0,00
+Safi Geçici Vergi Matrahı 0,00
+İşletmeden Çekilen Enflasyon Düzeltmesi Farkları 0,00
+KVK’nın 32/A Mad. Kapsamında İndirimli Kurumlar Vergisine (Geçici Vergiye) Tabi Matrah
+KVK’nın 32/A Mad. Kapsamında İndirimli Kurumlar Vergisi (Geçici Vergi) Oranı
+Genel Orana Tabi Geçici Vergi Matrahı
+0,00
+0,000000
+0,00
+G.V.K. 113. Mad Kapsamında Elde Edilen Hasılat 0,00
+G.V.K. 113. Mad Kapsamında Vergiye Tabi Matrah 0,00
+KVK’nın 32/6 Mad. Kapsamında İndirimli Kurumlar Vergisine (Geçici Vergiye) Tabi Matrah
+KVK’nın 32/6 Mad. Kapsamında İndirimli Kurumlar Vergisi (Geçici Vergi) Oranı
+0,00
+0,00
+0,00
+Geçici Vergi Matrahı 0,00
+Önceki Dönemlerde Hesaplanan Geçici Vergi
+Hesaplanan Geçici Vergi 0,00
+Mahsup Edilecek Tevkifat Tutarı
+Ödenecek Geçici Vergi
+0,00
+Sonraki Döneme Devreden Tevkifat Tutarı
+Damga Vergisi
+0,00
+Ödenmesi Gereken Geçici Vergi 0,00
+Mahsup Edilecek Geçici Vergi,Yabancı Ülkelerde Ödenen Vergi ve Tevkifat Tutarı
+0,00
+0,00
+99,90
+VERGİ BİLDİRİMİ
+Mahsup Edilecek Yabancı Ülkelerde Ödenen Vergi Tutarı (KVK 33.Mad.göre Tevsik 0,00
+Sonraki Döneme Devreden Yabancı Ülkelerde Ödenen Vergi Tutarı 0,00
+Sonraki Döneme Devreden Hesaplanan Geçici Vergi 0,00
+Yabancı Ülkelerde Ödenen Vergiler (Beyanname Tarihi İtibariyle Tevsik Edilemeyenler) 0,00
+Yabancı Ülkelerde Ödenen Ancak Tevsik Edilememesi Nedeni ile Tecil Edilen Geçici Kurumlar 0,00
+Kazancın Tespit Yöntemi Bilanço
+Bilanço Tipi Tek Düzen Hesap Planı(Aracı Kur. ve Halka Açık Şirk. Dahil)
+Faaliyet Kodu Brüt Satış Tutarı
+ BRÜT KAZANÇ DAĞILIMI
+791101 42.372,88
+3850695562
+Soyadı, Adı (Unvanı)
+FENİX BUKLET
+TUR.DAN.END.HOTEL İTH.İHR.LTD.ŞTİ.
+ Ticaret Sicil No
+ İrtibat Tel No
+ E-Posta Adresi
+muhasebe@niluferdavet.com.tr
+89446
+542 3292100
+Mükellef
+ Beyannamenin Hangi Sıfatla Verildiği
+Vergi Kimlik Numarası 15370800082
+Soyadı, Adı (Unvanı)
+COŞKUNMERİÇ AYKUT
+ İrtibat Tel No
+ E-Posta Adresi
+aykutcoskunmeric@acmedanismanlik.com
+2126
+224 2114888
+Vergi Kimlik Numarası (TC Kimlik No)
+Beyannameyi Düzenleyen Mükellef / SM / SMMM
+Tic. Sic. No/Oda Sic. No
+15370800082
+Soyadı, Adı (Unvanı)
+COŞKUNMERİÇ AYKUT
+ İrtibat Tel No
+ E-Posta Adresi
+aykutcoskunmeric@acmedanismanlik.com
+2126
+224 2114888
+Vergi Kimlik Numarası (TC Kimlik No)
+Beyannameyi Gönderen Mükellef / SM / SMMM / YMM
+Oda Sicil No
+EKLER
+Merkez /
+Şube
+Matbaa/ Noter/
+Üretici Vergi
+FATURA BİLGİLERİ
+Fatura Tarihi Alıcı Vergi
+Kimlik No
+Fatura Seri - Tutarı
+Sıra No
+Matbaa/ Noter/
+Üretici T.C.
+Alıcı T.C.
+Kimlik No
+Fatura
+Çeşidi
+GIB2021000
+000002
+Merkez E-Arşiv 10/02/2021 8000013270 435.420,00
+Açıklama
+TEK DÜZEN HESAP PLANINA UYGUN GELİR TABLOSU ( TL )
+Cari Dönem
+(2021)
+Açıklama
+TEK DÜZEN HESAP PLANINA UYGUN GELİR TABLOSU ( TL )
+Cari Dönem
+(2021)
+A. Brüt Satışlar 42.372,88
+. 1. Yurtiçi Satışlar 42.372,88
+C.Net Satışlar 42.372,88
+D. Satışların Maliyeti (-) 22.222,22
+. 3. Satılan Hizmet Maliyeti (-) 22.222,22
+Brüt Satış Karı veya Zararı 20.150,66
+E. Faaliyet Giderleri (-) 233.970,98
+. 2. Pazarlama, Satış ve Dağıtım Giderleri (-) 9.641,37
+. 3. Genel Yönetim Giderleri (-) 224.329,61
+Faaliyet Karı veya Zararı -213.820,32
+Olağan Kar veya Zarar -213.820,32
+I. Olağan Dışı Gelir ve Karlar 369.000,00
+. 2. Diğer Olağandışı Gelir ve Karlar 369.000,00
+J. Olağandışı Gider ve Zararlar (-) 39,13
+. 3. Diğer Olağandışı Gider ve Zararlar (-) 39,13
+Dönem Karı veya Zararı 155.140,55
+Dönem Net Karı veya Zararı 155.140,55
+Giderin Türü
+KANUNEN KABUL EDİLMEYEN GİDERLER
+Tutar
+KVK m.11 hükümlerine göre kabul edilmeyen indirimler (KVK m. 11/1-i finansman
+gider kısıtlaması hariç)
+39,1300
+TOPLAM 39,1300
+Patent Sahibinin Durumu
+Devir Alınan Kişinin/Firmanın TC/Vergi Kimlik numarası
+SINAİ MÜLKİYET HAKLARINDA İSTİSNA
